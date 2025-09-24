@@ -17,7 +17,7 @@ Objectif : tracer mon apprentissage, mes tests et mes contributions afin de prog
 ## 📅 Suivi par semaine
 ### LibreOffice
 - 🔗 [Mon fork LibreOffice](https://github.com/tonprofil/libreoffice)
-- 📝 [Détails de mes tests](./contributions/libreoffice/semaine2-tests.md)
+- 📝 [Détails de mes tests](LibreOffice/semaine2-tests.md)
 
 ### Firefox Nightly  
 - 🔗 [Mon fork Firefox](https://github.com/tonprofil/firefox)
