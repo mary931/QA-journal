@@ -5,14 +5,22 @@ Découvrir LibreOffice Dev et commencer à exécuter quelques cas de tests manue
 
 ---
 
-## 🧪 Cas de test 1 TC1 – Mettre un texte en gras dans LibreOffice Writer
-
+## 🧪 Scénario 1  – Mettre un texte en gras dans LibreOffice Writer
 **Rédigé par :** Maryline
 **Date :** 24/09/2025
 
- Scénario 1 : Application du gras sur un mot sélectionné
+**Objectif du Scénario :** Vérifier que la fonctionnalité de mise en forme Gras fonctionne correctement dans différents contextes d'utilisation.
 
-**ID du Test :** GRAS-001
+**Fonctionnalité couverte :** Application et désactivation de l'attribut "Gras".
+
+**Cas de tests associés :**
+- TC-GRAS-001 : Application via l'interface utilisateur
+- TC-GRAS-002 : Désactivation via l'interface utilisateur  
+- TC-GRAS-003 : Application via le raccourci clavier
+
+ Cas des test 1 : Application du gras sur un mot sélectionné
+
+**ID du Test :** TC-GRAS-001
 **Objectif :** Vérifier que la fonction "Gras" permet de mettre en valeur un texte sélectionné en le rendant visuellement plus épais.
 **Priorité :** Élevée (Fonction de base essentielle)
 
@@ -34,9 +42,9 @@ Le mot "Baudelaire" s'affiche correctement en caractères gras après l'applicat
 
 **Notes/Observations :** Le changement est immédiat et visible. Le bouton "G" reste enfoncé (état "actif"), indiquant que la mise en forme est appliquée à la sélection.
 
- Scénario 2 : Désactivation de la mise en forme Gras
+ Cas de test 2 : Désactivation de la mise en forme Gras
 
-**ID du Test :** GRAS-002
+**ID du Test :** TC-GRAS-002
 **Objectif :** Vérifier que la fonction "Gras" peut être désactivée pour qu'un texte retrouve son apparence normale.
 **Priorité :** Élevée
 
@@ -56,9 +64,9 @@ Le mot "Baudelaire" n'est plus en gras , le mot à retrouver son apparence norma
 **Statut :**SUCCÈS
 **Notes/Observations :** Le bouton "G" n'est plus enfoncé montrant que la fonctionnalité est désactivé.
 
-Scénario 3 : Activation du Gras via le raccourci clavier
+Cas de test 3 : Activation du Gras via le raccourci clavier
 
-**ID du Test :** GRAS-003
+**ID du Test :** TC-GRAS-003
 **Objectif :** Vérifier que la fonction "Gras" peut être activée via le raccourci clavier `Ctrl + B`.
 **Priorité :** Moyenne (Fonction de base mais méthode d'accès secondaire)
 
