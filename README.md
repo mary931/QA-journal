@@ -15,13 +15,9 @@ Objectif : tracer mon apprentissage, mes tests et mes contributions afin de prog
 ---
 
 ## 📅 Suivi par semaine
-### LibreOffice
-- 🔗 [Mon fork LibreOffice](https://github.com/tonprofil/libreoffice)
-- 📝 [Détails de mes tests](LibreOffice/semaine2-tests.md)
 
-### Firefox Nightly  
-- 🔗 [Mon fork Firefox](https://github.com/tonprofil/firefox)
-- 📝 [Détails de mes tests](Firefox/semaine3-tests.md)
+- 📝 [Semaine 2 – Tests LibreOffice](LibreOffice/semaine2-tests.md) 
+- 📝 [Semaine 3 – Tests Firefox](Firefox/semaine3-tests.md)
 
 ## 📜 Certification
 - ✅ ISTQB Certified Tester Foundation Level (CTFL)
