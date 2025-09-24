@@ -21,7 +21,7 @@ Objectif : tracer mon apprentissage, mes tests et mes contributions afin de prog
 
 ### Firefox Nightly  
 - 🔗 [Mon fork Firefox](https://github.com/tonprofil/firefox)
-- 📝 [Détails de mes tests](./contributions/firefox/semaine3-tests.md)
+- 📝 [Détails de mes tests](Firefox/semaine3-tests.md)
 
 ## 📜 Certification
 - ✅ ISTQB Certified Tester Foundation Level (CTFL)
