@@ -15,7 +15,7 @@ Objectif : tracer mon apprentissage, mes tests et mes contributions afin de prog
 ---
 
 ## 📅 Suivi par semaine
-- [Semaine 2 – Tests LibreOffice](./LibreOffice/semaine2-tests.md)
+- [Semaine 2 – Tests LibreOffice](semaine2-tests.md)
 - [Semaine 3 – Tests Firefox](./Firefox/semaine3-tests.md)
 
 ---
